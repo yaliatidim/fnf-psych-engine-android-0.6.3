@@ -1,22 +1,66 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				0,
-				-83
-			],
 			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
 			"anim": "cheer",
 			"fps": 24,
 			"name": "GF Cheer",
 			"indices": []
 		},
 		{
+			"loop": false,
+			"offsets": [
+				0,
+				-19
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GF left note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GF Down Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GF Up Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GF Right Note",
+			"indices": []
+		},
+		{
+			"loop": false,
 			"offsets": [
 				-2,
-				-115
+				-21
 			],
-			"loop": false,
 			"anim": "sad",
 			"fps": 24,
 			"name": "gf sad",
@@ -37,11 +81,11 @@
 			]
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
-				-98
+				-9
 			],
-			"loop": false,
 			"anim": "danceLeft",
 			"fps": 24,
 			"name": "GF Dancing Beat",
@@ -65,11 +109,11 @@
 			]
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
-				-97
+				-9
 			],
-			"loop": false,
 			"anim": "danceRight",
 			"fps": 24,
 			"name": "GF Dancing Beat",
@@ -92,11 +136,35 @@
 			]
 		},
 		{
+			"loop": false,
 			"offsets": [
-				-1,
-				-89
+				0,
+				-9
 			],
+			"anim": "hairFall",
+			"fps": 24,
+			"name": "GF Dancing Beat Hair Landing",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			]
+		},
+		{
 			"loop": true,
+			"offsets": [
+				-2,
+				-17
+			],
 			"anim": "scared",
 			"fps": 24,
 			"name": "GF FEAR",
@@ -104,22 +172,22 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/shaya_mini",
+	"image": "characters/no",
 	"position": [
-		60,
-		190
+		0,
+		0
 	],
-	"healthicon": "gf",
+	"healthicon": "303",
 	"flip_x": false,
 	"healthbar_colors": [
-		235,
-		38,
-		186
+		255,
+		0,
+		0
 	],
 	"camera_position": [
-		-340,
-		-10
+		0,
+		0
 	],
 	"sing_duration": 4,
-	"scale": 2
+	"scale": 1
 }

@@ -3,12 +3,45 @@
 		{
 			"loop": false,
 			"offsets": [
-				77,
-				-135
+				-34,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "G Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				2
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "G Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "G Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-27
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "down placeholder",
+			"name": "G Down",
 			"indices": []
 		},
 		{
@@ -19,60 +52,27 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "Dearest Idle",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				395,
-				7
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Dearest Left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				121,
-				177
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "UP Pose",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-19,
-				-11
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Right DD",
+			"name": "G Idle Dance",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/DADDY_DEAREST",
+	"image": "characters/B3_GF_Phase_2_Assets",
 	"position": [
-		150,
-		165
+		140,
+		332
 	],
-	"healthicon": "dad",
+	"healthicon": "succ",
 	"flip_x": false,
 	"healthbar_colors": [
-		110,
-		93,
-		113
+		235,
+		38,
+		186
 	],
 	"camera_position": [
-		-230,
-		-290
+		-170,
+		-110
 	],
-	"sing_duration": 6.1,
-	"scale": 2.5
+	"sing_duration": 4,
+	"scale": 2
 }

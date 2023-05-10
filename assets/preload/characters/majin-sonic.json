@@ -3,76 +3,76 @@
 		{
 			"loop": false,
 			"offsets": [
-				77,
-				-135
+				-189,
+				-54
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "down placeholder",
+			"name": "DOWN",
 			"indices": []
 		},
 		{
 			"loop": false,
+			"offsets": [
+				175,
+				-132
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-25
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-315,
+				-37
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "Dearest Idle",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				395,
-				7
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Dearest Left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				121,
-				177
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "UP Pose",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-19,
-				-11
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Right DD",
+			"name": "IDLE",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/DADDY_DEAREST",
+	"image": "characters/majin_sonic",
 	"position": [
-		150,
-		165
+		-60,
+		130
 	],
-	"healthicon": "dad",
+	"healthicon": "b3geeckoirl",
 	"flip_x": false,
 	"healthbar_colors": [
-		110,
-		93,
-		113
+		58,
+		167,
+		115
 	],
 	"camera_position": [
-		-230,
-		-290
+		-70,
+		-100
 	],
 	"sing_duration": 6.1,
-	"scale": 2.5
+	"scale": 2
 }

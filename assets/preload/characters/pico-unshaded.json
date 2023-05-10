@@ -123,10 +123,10 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Pico_FNF_assetss",
+	"image": "characters/b3pico",
 	"position": [
-		130,
-		410
+		120,
+		380
 	],
 	"healthicon": "pico",
 	"flip_x": true,
@@ -136,8 +136,8 @@
 		31
 	],
 	"camera_position": [
-		-130,
-		-110
+		-260,
+		-70
 	],
 	"sing_duration": 4,
 	"scale": 2
