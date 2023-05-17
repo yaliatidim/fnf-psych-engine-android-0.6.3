@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="paps.png">
+	
+	
+	<SubTexture name="bone0000" x="0" y="0" width="325" height="1183" frameX="-4" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0001" x="0" y="16" width="325" height="1183" frameX="-4" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0002" x="0" y="32" width="325" height="1183" frameX="-4" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0003" x="0" y="49" width="325" height="1183" frameX="-3" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0004" x="0" y="65" width="325" height="1183" frameX="-3" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0005" x="0" y="82" width="325" height="1183" frameX="-3" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0006" x="0" y="98" width="325" height="1183" frameX="-3" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0007" x="0" y="114" width="325" height="1183" frameX="-3" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0008" x="0" y="131" width="325" height="1183" frameX="-3" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0009" x="0" y="147" width="325" height="1183" frameX="-3" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0010" x="0" y="164" width="325" height="1183" frameX="-3" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0011" x="0" y="180" width="325" height="1183" frameX="-3" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0012" x="0" y="196" width="325" height="1183" frameX="-3" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0013" x="0" y="213" width="325" height="1183" frameX="-3" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0014" x="0" y="229" width="325" height="1183" frameX="-2" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0015" x="0" y="246" width="325" height="1183" frameX="-2" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0016" x="0" y="262" width="325" height="1183" frameX="-2" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0017" x="0" y="279" width="325" height="1183" frameX="-2" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0018" x="0" y="295" width="325" height="1183" frameX="-2" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0019" x="0" y="311" width="325" height="1183" frameX="-2" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0020" x="0" y="328" width="325" height="1183" frameX="-2" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0021" x="0" y="344" width="325" height="1183" frameX="-2" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0022" x="0" y="361" width="325" height="1183" frameX="-2" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0023" x="0" y="377" width="325" height="1183" frameX="-2" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0024" x="0" y="393" width="325" height="1183" frameX="-2" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0025" x="0" y="410" width="325" height="1183" frameX="-1" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0026" x="0" y="426" width="325" height="1183" frameX="-1" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0027" x="0" y="443" width="325" height="1183" frameX="-1" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0028" x="0" y="459" width="325" height="1183" frameX="-1" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0029" x="0" y="476" width="325" height="1183" frameX="-1" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0030" x="0" y="492" width="325" height="1183" frameX="-1" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0031" x="0" y="508" width="325" height="1183" frameX="-1" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0032" x="0" y="525" width="325" height="1183" frameX="-1" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0033" x="0" y="541" width="325" height="1183" frameX="-1" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0034" x="0" y="558" width="324" height="1184" frameX="-1" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0035" x="0" y="574" width="324" height="1184" frameX="-1" frameY="0" frameWidth="328" frameHeight="1774" />
+	<SubTexture name="bone0036" x="0" y="590" width="324" height="1184" frameX="0" frameY="0" frameWidth="328" frameHeight="1774" />
+</TextureAtlas>
