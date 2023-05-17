@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Kinemorto", "icon-kinemorto-paps", [255, 87, 0]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "Song2",
+
+	"storyName": "",
+    "difficulties": "Normal",
+	"weekBefore": "",
+	"weekName": "",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
