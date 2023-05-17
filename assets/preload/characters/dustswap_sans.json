@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "swapsans_idle"
+		},
+		{
+			"offsets": [
+				18,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "swapsans_down"
+		},
+		{
+			"offsets": [
+				-36,
+				265
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "swapsans_up"
+		},
+		{
+			"offsets": [
+				59,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "swapsans_left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				247,
+				56
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "swapsans_right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dustswap/dustswap_sans",
+	"position": [
+		100,
+		500
+	],
+	"healthicon": "icon-dustswap-sans",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		130,
+		217
+	],
+	"camera_position": [
+		400,
+		-230
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

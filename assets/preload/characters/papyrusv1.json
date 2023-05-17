@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				57,
+				38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "voiceline1",
+			"indices": [],
+			"name": "voiceline1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PapVL1",
+	"position": [
+		260,
+		-70
+	],
+	"healthicon": "icon-kinemorto-paps",
+	"flip_x": false,
+	"healthbar_colors": [
+		171,
+		51,
+		73
+	],
+	"camera_position": [
+		-400,
+		-300
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

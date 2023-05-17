@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "dustswap_paps_idle"
+		},
+		{
+			"offsets": [
+				-3,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "dustswap_paps_left"
+		},
+		{
+			"offsets": [
+				11,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dustswap_paps_down"
+		},
+		{
+			"offsets": [
+				-2,
+				42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "dustswap_paps_up"
+		},
+		{
+			"offsets": [
+				-4,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "dustswap_paps_right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "dustswap_paps_laugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dustswap/dustswap_papyrus",
+	"position": [
+		-40,
+		260
+	],
+	"healthicon": "icon-dustswap-paps",
+	"flip_x": false,
+	"healthbar_colors": [
+		188,
+		57,
+		58
+	],
+	"camera_position": [
+		-80,
+		-210
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

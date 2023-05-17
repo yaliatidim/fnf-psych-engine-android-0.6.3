@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				2
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "madidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				117,
+				-21
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "madleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				-43
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "maddown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				23
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "madup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "madright",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-2,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "red_eye",
+			"indices": [],
+			"name": "red_eye"
+		},
+		{
+			"offsets": [
+				71,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "voiceline",
+			"indices": [],
+			"name": "voiceline"
+		},
+		{
+			"offsets": [
+				3,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "eye",
+			"indices": [],
+			"name": "eye"
+		},
+		{
+			"offsets": [
+				72,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "madvoiceline",
+			"indices": [],
+			"name": "voiceline"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/perseverance/perseverance",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "perseverance-sans",
+	"flip_x": false,
+	"healthbar_colors": [
+		57,
+		49,
+		119
+	],
+	"camera_position": [
+		0,
+		-180
+	],
+	"sing_duration": 5,
+	"scale": 2.2
+}
