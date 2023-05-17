@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="muffet.png">
+	
+	
+	<SubTexture name="muffet_DIES0000" x="0" y="0" width="279" height="387" />
+	<SubTexture name="muffet_DIES0001" x="280" y="0" width="267" height="387" frameX="-5" frameY="0" frameWidth="279" frameHeight="387" />
+	<SubTexture name="muffet_DIES0002" x="280" y="0" width="267" height="387" frameX="-5" frameY="0" frameWidth="279" frameHeight="387" />
+	<SubTexture name="muffet_DIES0003" x="548" y="0" width="268" height="387" frameX="-3" frameY="0" frameWidth="279" frameHeight="387" />
+	<SubTexture name="muffet_DIES0004" x="548" y="0" width="268" height="387" frameX="-3" frameY="0" frameWidth="279" frameHeight="387" />
+	<SubTexture name="muffet_DIES0005" x="816" y="0" width="268" height="387" frameX="-3" frameY="0" frameWidth="279" frameHeight="387" />
+	<SubTexture name="muffet_DIES0006" x="816" y="0" width="268" height="387" frameX="-3" frameY="0" frameWidth="279" frameHeight="387" />
+	<SubTexture name="muffet_DIES0007" x="1085" y="0" width="268" height="387" frameX="-3" frameY="0" frameWidth="279" frameHeight="387" />
+	<SubTexture name="muffet_DIES0008" x="1085" y="0" width="268" height="387" frameX="-3" frameY="0" frameWidth="279" frameHeight="387" />
+	<SubTexture name="muffet_DIES0009" x="1354" y="0" width="271" height="387" frameX="-3" frameY="0" frameWidth="279" frameHeight="387" />
+	<SubTexture name="muffet_DIES0010" x="1354" y="0" width="271" height="387" frameX="-3" frameY="0" frameWidth="279" frameHeight="387" />
+	<SubTexture name="muffet_DIES0011" x="548" y="0" width="268" height="387" frameX="-3" frameY="0" frameWidth="279" frameHeight="387" />
+	<SubTexture name="muffet_DIES0012" x="548" y="0" width="268" height="387" frameX="-3" frameY="0" frameWidth="279" frameHeight="387" />
+	<SubTexture name="muffet_DIES0013" x="816" y="0" width="268" height="387" frameX="-3" frameY="0" frameWidth="279" frameHeight="387" />
+	<SubTexture name="muffet_DIES0014" x="1625" y="0" width="268" height="387" frameX="-3" frameY="0" frameWidth="279" frameHeight="387" />
+	<SubTexture name="muffet_DIES0015" x="0" y="388" width="268" height="387" frameX="-3" frameY="0" frameWidth="279" frameHeight="387" />
+	<SubTexture name="muffet_DIES0016" x="269" y="388" width="268" height="387" frameX="-3" frameY="0" frameWidth="279" frameHeight="387" />
+	<SubTexture name="muffet_DIES0017" x="537" y="388" width="271" height="387" frameX="-3" frameY="0" frameWidth="279" frameHeight="387" />
+	<SubTexture name="muffet_DIES0018" x="809" y="388" width="271" height="387" frameX="-3" frameY="0" frameWidth="279" frameHeight="387" />
+	<SubTexture name="muffet_DIES0019" x="1080" y="388" width="268" height="387" frameX="-3" frameY="0" frameWidth="279" frameHeight="387" />
+	<SubTexture name="muffet_DIES0020" x="1349" y="388" width="268" height="387" frameX="-3" frameY="0" frameWidth="279" frameHeight="387" />
+	<SubTexture name="muffet_DIES0021" x="1617" y="388" width="268" height="387" frameX="-3" frameY="0" frameWidth="279" frameHeight="387" />
+	<SubTexture name="muffet_DIES0022" x="0" y="775" width="268" height="387" frameX="-3" frameY="0" frameWidth="279" frameHeight="387" />
+	<SubTexture name="muffet_DIES0023" x="269" y="388" width="268" height="387" frameX="-3" frameY="0" frameWidth="279" frameHeight="387" />
+	<SubTexture name="muffet_DIES0024" x="269" y="775" width="268" height="387" frameX="-3" frameY="0" frameWidth="279" frameHeight="387" />
+	<SubTexture name="muffet_DIES0025" x="538" y="775" width="271" height="387" frameX="-3" frameY="0" frameWidth="279" frameHeight="387" />
+	<SubTexture name="muffet_DIES0026" x="538" y="775" width="271" height="387" frameX="-3" frameY="0" frameWidth="279" frameHeight="387" />
+	<SubTexture name="muffet_idle0000" x="809" y="775" width="268" height="380" frameX="0" frameY="-7" frameWidth="268" frameHeight="387" />
+	<SubTexture name="muffet_idle0001" x="809" y="775" width="268" height="380" frameX="0" frameY="-7" frameWidth="268" frameHeight="387" />
+	<SubTexture name="muffet_idle0002" x="1078" y="775" width="263" height="385" frameX="-1" frameY="-2" frameWidth="268" frameHeight="387" />
+	<SubTexture name="muffet_idle0003" x="1078" y="775" width="263" height="385" frameX="-1" frameY="-2" frameWidth="268" frameHeight="387" />
+	<SubTexture name="muffet_idle0004" x="1342" y="775" width="260" height="387" frameX="-2" frameY="0" frameWidth="268" frameHeight="387" />
+	<SubTexture name="muffet_idle0005" x="1342" y="775" width="260" height="387" frameX="-2" frameY="0" frameWidth="268" frameHeight="387" />
+	<SubTexture name="muffet_idle0006" x="1603" y="775" width="259" height="387" frameX="-2" frameY="0" frameWidth="268" frameHeight="387" />
+	<SubTexture name="muffet_idle0007" x="1603" y="775" width="259" height="387" frameX="-2" frameY="0" frameWidth="268" frameHeight="387" />
+	<SubTexture name="muffet_idle0008" x="1342" y="775" width="260" height="387" frameX="-2" frameY="0" frameWidth="268" frameHeight="387" />
+	<SubTexture name="muffet_idle0009" x="1342" y="775" width="260" height="387" frameX="-2" frameY="0" frameWidth="268" frameHeight="387" />
+	<SubTexture name="muffet_idle0010" x="1342" y="775" width="260" height="387" frameX="-2" frameY="0" frameWidth="268" frameHeight="387" />
+	<SubTexture name="muffet_idle0011" x="1342" y="775" width="260" height="387" frameX="-2" frameY="0" frameWidth="268" frameHeight="387" />
+	<SubTexture name="muffet_idle0012" x="1342" y="775" width="260" height="387" frameX="-2" frameY="0" frameWidth="268" frameHeight="387" />
+	<SubTexture name="muffet_idle0013" x="1342" y="775" width="260" height="387" frameX="-2" frameY="0" frameWidth="268" frameHeight="387" />
+</TextureAtlas>
