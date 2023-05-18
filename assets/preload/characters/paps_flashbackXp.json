@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "paps_flashbackMAD_idle"
+		},
+		{
+			"offsets": [
+				-6,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "paps_flashbackMAD_left"
+		},
+		{
+			"offsets": [
+				1,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "paps_flashbackMAD_down"
+		},
+		{
+			"offsets": [
+				-10,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "paps_flashbackMAD_right"
+		},
+		{
+			"offsets": [
+				-10,
+				86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "paps_flashbackMAD_up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dustswap/paps_flashback",
+	"position": [
+		50,
+		310
+	],
+	"healthicon": "icon-dustswap-paps-fb",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		80,
+		20
+	],
+	"camera_position": [
+		-20,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

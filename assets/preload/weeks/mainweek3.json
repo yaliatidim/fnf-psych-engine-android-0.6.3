@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Homiecide", "dustswap-paps", [0, 248, 255]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "Song3",
+
+	"storyName": "",
+    "difficulties": "Normal",
+	"weekBefore": "",
+	"weekName": "Tutorial",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

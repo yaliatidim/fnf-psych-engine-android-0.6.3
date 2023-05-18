@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="dustswap_sans.png" width="2673" height="2382">
+  <SubTexture name="swapsans_MISSleft0000_copy_260x229.png" x="0" y="0"  width="249" height="213" frameX="-4" frameY="-16" frameWidth="260" frameHeight="229"/>
+  <SubTexture name="swapsans_MISSdown0000_copy_307x234.png" x="249" y="0"  width="307" height="221" frameX="-0" frameY="-13" frameWidth="307" frameHeight="234"/>
+  <SubTexture name="swapsans_down0000_copy_307x225.png" x="556" y="0"  width="307" height="221" frameX="-0" frameY="-4" frameWidth="307" frameHeight="225"/>
+  <SubTexture name="swapsans_down0002_copy_307x225.png" x="863" y="0"  width="295" height="223" frameX="-3" frameY="-2" frameWidth="307" frameHeight="225"/>
+  <SubTexture name="swapsans_idle0000_copy_258x230.png" x="1158" y="0"  width="258" height="224" frameX="-0" frameY="-6" frameWidth="258" frameHeight="230"/>
+  <SubTexture name="swapsans_down0003_copy_307x225.png" x="1416" y="0"  width="281" height="225" frameX="-5" frameY="-0" frameWidth="307" frameHeight="225"/>
+  <SubTexture name="swapsans_down0005_copy_307x225.png" x="1697" y="0"  width="286" height="225" frameX="-5" frameY="-0" frameWidth="307" frameHeight="225"/>
+  <SubTexture name="swapsans_down0008_copy_307x225.png" x="1983" y="0"  width="291" height="225" frameX="-5" frameY="-0" frameWidth="307" frameHeight="225"/>
+  <SubTexture name="swapsans_down0011_copy_307x225.png" x="2274" y="0"  width="283" height="225" frameX="-5" frameY="-0" frameWidth="307" frameHeight="225"/>
+  <SubTexture name="swapsans_idle0003_copy_258x230.png" x="0" y="213"  width="248" height="225" frameX="-0" frameY="-4" frameWidth="258" frameHeight="230"/>
+  <SubTexture name="swapsans_down0013_copy_307x225.png" x="248" y="221"  width="287" height="225" frameX="-5" frameY="-0" frameWidth="307" frameHeight="225"/>
+  <SubTexture name="swapsans_idle0002_copy_258x230.png" x="535" y="221"  width="248" height="226" frameX="-0" frameY="-4" frameWidth="258" frameHeight="230"/>
+  <SubTexture name="swapsans_idle0005_copy_258x230.png" x="783" y="223"  width="252" height="228" frameX="-0" frameY="-1" frameWidth="258" frameHeight="230"/>
+  <SubTexture name="swapsans_idle0004_copy_258x230.png" x="1035" y="224"  width="252" height="229" frameX="-0" frameY="-1" frameWidth="258" frameHeight="230"/>
+  <SubTexture name="swapsans_left0000_copy_260x229.png" x="1287" y="225"  width="249" height="229" frameX="-5" frameY="-0" frameWidth="260" frameHeight="229"/>
+  <SubTexture name="swapsans_left0001_copy_260x229.png" x="1536" y="225"  width="254" height="229" frameX="-6" frameY="-0" frameWidth="260" frameHeight="229"/>
+  <SubTexture name="swapsans_left0002_copy_260x229.png" x="1790" y="225"  width="253" height="229" frameX="-2" frameY="-0" frameWidth="260" frameHeight="229"/>
+  <SubTexture name="swapsans_left0003_copy_260x229.png" x="2043" y="225"  width="252" height="229" frameX="-1" frameY="-0" frameWidth="260" frameHeight="229"/>
+  <SubTexture name="swapsans_left0004_copy_260x229.png" x="2295" y="225"  width="255" height="229" frameX="-0" frameY="-0" frameWidth="260" frameHeight="229"/>
+  <SubTexture name="swapsans_left0007_copy_260x229.png" x="0" y="438"  width="247" height="229" frameX="-4" frameY="-0" frameWidth="260" frameHeight="229"/>
+  <SubTexture name="swapsans_left0005_copy_260x229.png" x="247" y="446"  width="255" height="229" frameX="-0" frameY="-0" frameWidth="260" frameHeight="229"/>
+  <SubTexture name="swapsans_left0009_copy_260x229.png" x="502" y="447"  width="252" height="229" frameX="-2" frameY="-0" frameWidth="260" frameHeight="229"/>
+  <SubTexture name="swapsans_left0012_copy_260x229.png" x="754" y="451"  width="247" height="229" frameX="-4" frameY="-0" frameWidth="260" frameHeight="229"/>
+  <SubTexture name="swapsans_idle0006_copy_258x230.png" x="1001" y="453"  width="252" height="230" frameX="-0" frameY="-0" frameWidth="258" frameHeight="230"/>
+  <SubTexture name="swapsans_idle0007_copy_258x230.png" x="1253" y="454"  width="246" height="230" frameX="-0" frameY="-0" frameWidth="258" frameHeight="230"/>
+  <SubTexture name="swapsans_idle0008_copy_258x230.png" x="1499" y="454"  width="246" height="230" frameX="-0" frameY="-0" frameWidth="258" frameHeight="230"/>
+  <SubTexture name="swapsans_idle0009_copy_258x230.png" x="1745" y="454"  width="251" height="230" frameX="-0" frameY="-0" frameWidth="258" frameHeight="230"/>
+  <SubTexture name="swapsans_idle0010_copy_258x230.png" x="1996" y="454"  width="251" height="230" frameX="-0" frameY="-0" frameWidth="258" frameHeight="230"/>
+  <SubTexture name="swapsans_idle0012_copy_258x230.png" x="2247" y="454"  width="255" height="230" frameX="-0" frameY="-0" frameWidth="258" frameHeight="230"/>
+  <SubTexture name="swapsans_idle0015_copy_258x230.png" x="0" y="667"  width="247" height="230" frameX="-0" frameY="-0" frameWidth="258" frameHeight="230"/>
+  <SubTexture name="swapsans_idle0017_copy_258x230.png" x="247" y="675"  width="252" height="230" frameX="-0" frameY="-0" frameWidth="258" frameHeight="230"/>
+  <SubTexture name="swapsans_idle0020_copy_258x230.png" x="499" y="676"  width="246" height="230" frameX="-0" frameY="-0" frameWidth="258" frameHeight="230"/>
+  <SubTexture name="swapsans_idle0022_copy_258x230.png" x="745" y="680"  width="251" height="230" frameX="-0" frameY="-0" frameWidth="258" frameHeight="230"/>
+  <SubTexture name="swapsans_MISSdown0001_copy_307x234.png" x="996" y="684"  width="295" height="234" frameX="-3" frameY="-0" frameWidth="307" frameHeight="234"/>
+  <SubTexture name="swapsans_MISSdown0003_copy_307x234.png" x="1291" y="684"  width="296" height="234" frameX="-3" frameY="-0" frameWidth="307" frameHeight="234"/>
+  <SubTexture name="swapsans_MISSdown0005_copy_307x234.png" x="1587" y="684"  width="295" height="234" frameX="-3" frameY="-0" frameWidth="307" frameHeight="234"/>
+  <SubTexture name="swapsans_MISSdown0007_copy_307x234.png" x="1882" y="684"  width="295" height="234" frameX="-3" frameY="-0" frameWidth="307" frameHeight="234"/>
+  <SubTexture name="swapsans_right0003_copy_321x247.png" x="2177" y="684"  width="312" height="236" frameX="-0" frameY="-11" frameWidth="321" frameHeight="247"/>
+  <SubTexture name="swapsans_right0004_copy_321x247.png" x="0" y="905"  width="317" height="236" frameX="-0" frameY="-11" frameWidth="321" frameHeight="247"/>
+  <SubTexture name="swapsans_right0005_copy_321x247.png" x="317" y="906"  width="317" height="237" frameX="-1" frameY="-10" frameWidth="321" frameHeight="247"/>
+  <SubTexture name="swapsans_right0006_copy_321x247.png" x="634" y="910"  width="317" height="237" frameX="-1" frameY="-10" frameWidth="321" frameHeight="247"/>
+  <SubTexture name="swapsans_right0007_copy_321x247.png" x="951" y="918"  width="311" height="237" frameX="-1" frameY="-10" frameWidth="321" frameHeight="247"/>
+  <SubTexture name="swapsans_right0008_copy_321x247.png" x="1262" y="918"  width="311" height="237" frameX="-1" frameY="-10" frameWidth="321" frameHeight="247"/>
+  <SubTexture name="swapsans_right0009_copy_321x247.png" x="1573" y="918"  width="316" height="237" frameX="-1" frameY="-10" frameWidth="321" frameHeight="247"/>
+  <SubTexture name="swapsans_right0010_copy_321x247.png" x="1889" y="920"  width="316" height="237" frameX="-1" frameY="-10" frameWidth="321" frameHeight="247"/>
+  <SubTexture name="swapsans_right0012_copy_321x247.png" x="2205" y="920"  width="320" height="237" frameX="-1" frameY="-10" frameWidth="321" frameHeight="247"/>
+  <SubTexture name="swapsans_right0015_copy_321x247.png" x="0" y="1141"  width="311" height="237" frameX="-1" frameY="-10" frameWidth="321" frameHeight="247"/>
+  <SubTexture name="swapsans_right0013_copy_321x247.png" x="311" y="1143"  width="320" height="237" frameX="-1" frameY="-10" frameWidth="321" frameHeight="247"/>
+  <SubTexture name="swapsans_right0016_copy_321x247.png" x="631" y="1147"  width="311" height="237" frameX="-1" frameY="-10" frameWidth="321" frameHeight="247"/>
+  <SubTexture name="swapsans_right0017_copy_321x247.png" x="942" y="1155"  width="317" height="237" frameX="-1" frameY="-10" frameWidth="321" frameHeight="247"/>
+  <SubTexture name="swapsans_right0018_copy_321x247.png" x="1259" y="1155"  width="317" height="237" frameX="-1" frameY="-10" frameWidth="321" frameHeight="247"/>
+  <SubTexture name="swapsans_right0002_copy_321x247.png" x="1576" y="1155"  width="311" height="239" frameX="-0" frameY="-8" frameWidth="321" frameHeight="247"/>
+  <SubTexture name="swapsans_up0003_copy_266x352.png" x="1887" y="1157" width="349" height="239" rotated="true"  frameX="-9" frameY="-3" frameWidth="266" frameHeight="352"/>
+  <SubTexture name="swapsans_up0015_copy_266x352.png" x="2236" y="1157" width="349" height="239" rotated="true"  frameX="-9" frameY="-3" frameWidth="266" frameHeight="352"/>
+  <SubTexture name="swapsans_up0010_copy_266x352.png" x="0" y="1380" width="349" height="240" rotated="true"  frameX="-9" frameY="-3" frameWidth="266" frameHeight="352"/>
+  <SubTexture name="swapsans_MISSleft0001_copy_257x245.png" x="349" y="1380"  width="251" height="245" frameX="-0" frameY="-0" frameWidth="257" frameHeight="245"/>
+  <SubTexture name="swapsans_MISSright0001_copy_329x247.png" x="600" y="1384"  width="321" height="243" frameX="-0" frameY="-4" frameWidth="329" frameHeight="247"/>
+  <SubTexture name="swapsans_MISSup0001_copy_261x350.png" x="921" y="1392" width="350" height="241" rotated="true"  frameX="-9" frameY="-0" frameWidth="261" frameHeight="350"/>
+  <SubTexture name="swapsans_MISSup0003_copy_261x350.png" x="1271" y="1394" width="350" height="241" rotated="true"  frameX="-10" frameY="-0" frameWidth="261" frameHeight="350"/>
+  <SubTexture name="swapsans_MISSup0005_copy_261x350.png" x="1621" y="1396" width="350" height="242" rotated="true"  frameX="-9" frameY="-0" frameWidth="261" frameHeight="350"/>
+  <SubTexture name="swapsans_MISSup0007_copy_261x350.png" x="1971" y="1396" width="350" height="242" rotated="true"  frameX="-9" frameY="-0" frameWidth="261" frameHeight="350"/>
+  <SubTexture name="swapsans_up0002_copy_266x352.png" x="2321" y="1396" width="352" height="242" rotated="true"  frameX="-19" frameY="-0" frameWidth="266" frameHeight="352"/>
+  <SubTexture name="swapsans_MISSright0002_copy_329x247.png" x="0" y="1620"  width="321" height="243" frameX="-0" frameY="-4" frameWidth="329" frameHeight="247"/>
+  <SubTexture name="swapsans_MISSleft0003_copy_257x245.png" x="321" y="1625"  width="255" height="245" frameX="-0" frameY="-0" frameWidth="257" frameHeight="245"/>
+  <SubTexture name="swapsans_MISSright0003_copy_329x247.png" x="576" y="1627"  width="319" height="243" frameX="-2" frameY="-4" frameWidth="329" frameHeight="247"/>
+  <SubTexture name="swapsans_MISSright0004_copy_329x247.png" x="895" y="1633"  width="319" height="243" frameX="-2" frameY="-4" frameWidth="329" frameHeight="247"/>
+  <SubTexture name="swapsans_MISSright0005_copy_329x247.png" x="1214" y="1635"  width="319" height="243" frameX="-1" frameY="-4" frameWidth="329" frameHeight="247"/>
+  <SubTexture name="swapsans_MISSright0006_copy_329x247.png" x="1533" y="1638"  width="319" height="243" frameX="-1" frameY="-4" frameWidth="329" frameHeight="247"/>
+  <SubTexture name="swapsans_MISSright0007_copy_329x247.png" x="1852" y="1638"  width="319" height="243" frameX="-1" frameY="-4" frameWidth="329" frameHeight="247"/>
+  <SubTexture name="swapsans_MISSright0008_copy_329x247.png" x="2171" y="1638"  width="319" height="243" frameX="-1" frameY="-4" frameWidth="329" frameHeight="247"/>
+  <SubTexture name="swapsans_MISSright0009_copy_329x247.png" x="0" y="1863"  width="319" height="243" frameX="-1" frameY="-4" frameWidth="329" frameHeight="247"/>
+  <SubTexture name="swapsans_MISSright0010_copy_329x247.png" x="319" y="1870"  width="319" height="243" frameX="-1" frameY="-4" frameWidth="329" frameHeight="247"/>
+  <SubTexture name="swapsans_MISSleft0005_copy_257x245.png" x="638" y="1870"  width="254" height="245" frameX="-0" frameY="-0" frameWidth="257" frameHeight="245"/>
+  <SubTexture name="swapsans_MISSleft0007_copy_257x245.png" x="892" y="1876"  width="254" height="245" frameX="-0" frameY="-0" frameWidth="257" frameHeight="245"/>
+  <SubTexture name="swapsans_up0004_copy_266x352.png" x="1146" y="1878" width="349" height="244" rotated="true"  frameX="-9" frameY="-3" frameWidth="266" frameHeight="352"/>
+  <SubTexture name="swapsans_up0005_copy_266x352.png" x="1495" y="1881" width="349" height="244" rotated="true"  frameX="-9" frameY="-3" frameWidth="266" frameHeight="352"/>
+  <SubTexture name="swapsans_up0012_copy_266x352.png" x="1844" y="1881" width="349" height="245" rotated="true"  frameX="-9" frameY="-3" frameWidth="266" frameHeight="352"/>
+  <SubTexture name="swapsans_MISSright0000_copy_329x247.png" x="2193" y="1881"  width="316" height="247" frameX="-6" frameY="-0" frameWidth="329" frameHeight="247"/>
+  <SubTexture name="swapsans_MISSright0024_copy_329x247.png" x="0" y="2106"  width="316" height="247" frameX="-6" frameY="-0" frameWidth="329" frameHeight="247"/>
+  <SubTexture name="swapsans_right0000_copy_329x247.png" x="316" y="2113"  width="316" height="247" frameX="-1" frameY="-0" frameWidth="329" frameHeight="247"/>
+  <SubTexture name="swapsans_up0007_copy_266x352.png" x="632" y="2121" width="349" height="248" rotated="true"  frameX="-9" frameY="-3" frameWidth="266" frameHeight="352"/>
+  <SubTexture name="swapsans_MISSup0000_copy_261x350.png" x="981" y="2122" width="348" height="257" rotated="true"  frameX="-0" frameY="-2" frameWidth="261" frameHeight="350"/>
+  <SubTexture name="swapsans_up0000_copy_261x350.png" x="1329" y="2125" width="346" height="257" rotated="true"  frameX="-0" frameY="-4" frameWidth="261" frameHeight="350"/>
+  <SubTexture name="swapsans_down0001_copy_307x225.png" x="556" y="0"  width="307" height="221" frameX="-0" frameY="-4" frameWidth="307" frameHeight="225"/>
+  <SubTexture name="swapsans_down0004_copy_307x225.png" x="1416" y="0"  width="281" height="225" frameX="-5" frameY="-0" frameWidth="307" frameHeight="225"/>
+  <SubTexture name="swapsans_down0016_copy_307x225.png" x="1416" y="0"  width="281" height="225" frameX="-5" frameY="-0" frameWidth="307" frameHeight="225"/>
+  <SubTexture name="swapsans_down0017_copy_307x225.png" x="1416" y="0"  width="281" height="225" frameX="-5" frameY="-0" frameWidth="307" frameHeight="225"/>
+  <SubTexture name="swapsans_down0006_copy_307x225.png" x="1697" y="0"  width="286" height="225" frameX="-5" frameY="-0" frameWidth="307" frameHeight="225"/>
+  <SubTexture name="swapsans_down0007_copy_307x225.png" x="1697" y="0"  width="286" height="225" frameX="-5" frameY="-0" frameWidth="307" frameHeight="225"/>
+  <SubTexture name="swapsans_down0018_copy_307x225.png" x="1697" y="0"  width="286" height="225" frameX="-5" frameY="-0" frameWidth="307" frameHeight="225"/>
+  <SubTexture name="swapsans_down0019_copy_307x225.png" x="1697" y="0"  width="286" height="225" frameX="-5" frameY="-0" frameWidth="307" frameHeight="225"/>
+  <SubTexture name="swapsans_down0020_copy_307x225.png" x="1697" y="0"  width="286" height="225" frameX="-5" frameY="-0" frameWidth="307" frameHeight="225"/>
+  <SubTexture name="swapsans_down0009_copy_307x225.png" x="1983" y="0"  width="291" height="225" frameX="-5" frameY="-0" frameWidth="307" frameHeight="225"/>
+  <SubTexture name="swapsans_down0010_copy_307x225.png" x="1983" y="0"  width="291" height="225" frameX="-5" frameY="-0" frameWidth="307" frameHeight="225"/>
+  <SubTexture name="swapsans_down0021_copy_307x225.png" x="1983" y="0"  width="291" height="225" frameX="-5" frameY="-0" frameWidth="307" frameHeight="225"/>
+  <SubTexture name="swapsans_down0022_copy_307x225.png" x="1983" y="0"  width="291" height="225" frameX="-5" frameY="-0" frameWidth="307" frameHeight="225"/>
+  <SubTexture name="swapsans_down0023_copy_307x225.png" x="1983" y="0"  width="291" height="225" frameX="-5" frameY="-0" frameWidth="307" frameHeight="225"/>
+  <SubTexture name="swapsans_down0012_copy_307x225.png" x="2274" y="0"  width="283" height="225" frameX="-5" frameY="-0" frameWidth="307" frameHeight="225"/>
+  <SubTexture name="swapsans_down0024_copy_307x225.png" x="2274" y="0"  width="283" height="225" frameX="-5" frameY="-0" frameWidth="307" frameHeight="225"/>
+  <SubTexture name="swapsans_down0025_copy_307x225.png" x="2274" y="0"  width="283" height="225" frameX="-5" frameY="-0" frameWidth="307" frameHeight="225"/>
+  <SubTexture name="swapsans_down0014_copy_307x225.png" x="248" y="221"  width="287" height="225" frameX="-5" frameY="-0" frameWidth="307" frameHeight="225"/>
+  <SubTexture name="swapsans_down0015_copy_307x225.png" x="248" y="221"  width="287" height="225" frameX="-5" frameY="-0" frameWidth="307" frameHeight="225"/>
+  <SubTexture name="swapsans_idle0001_copy_258x230.png" x="1158" y="0"  width="258" height="224" frameX="-0" frameY="-6" frameWidth="258" frameHeight="230"/>
+  <SubTexture name="swapsans_idle0011_copy_258x230.png" x="1996" y="454"  width="251" height="230" frameX="-0" frameY="-0" frameWidth="258" frameHeight="230"/>
+  <SubTexture name="swapsans_idle0013_copy_258x230.png" x="2247" y="454"  width="255" height="230" frameX="-0" frameY="-0" frameWidth="258" frameHeight="230"/>
+  <SubTexture name="swapsans_idle0014_copy_258x230.png" x="2247" y="454"  width="255" height="230" frameX="-0" frameY="-0" frameWidth="258" frameHeight="230"/>
+  <SubTexture name="swapsans_idle0025_copy_258x230.png" x="2247" y="454"  width="255" height="230" frameX="-0" frameY="-0" frameWidth="258" frameHeight="230"/>
+  <SubTexture name="swapsans_idle0016_copy_258x230.png" x="0" y="667"  width="247" height="230" frameX="-0" frameY="-0" frameWidth="258" frameHeight="230"/>
+  <SubTexture name="swapsans_idle0018_copy_258x230.png" x="247" y="675"  width="252" height="230" frameX="-0" frameY="-0" frameWidth="258" frameHeight="230"/>
+  <SubTexture name="swapsans_idle0019_copy_258x230.png" x="247" y="675"  width="252" height="230" frameX="-0" frameY="-0" frameWidth="258" frameHeight="230"/>
+  <SubTexture name="swapsans_idle0021_copy_258x230.png" x="499" y="676"  width="246" height="230" frameX="-0" frameY="-0" frameWidth="258" frameHeight="230"/>
+  <SubTexture name="swapsans_idle0023_copy_258x230.png" x="745" y="680"  width="251" height="230" frameX="-0" frameY="-0" frameWidth="258" frameHeight="230"/>
+  <SubTexture name="swapsans_idle0024_copy_258x230.png" x="745" y="680"  width="251" height="230" frameX="-0" frameY="-0" frameWidth="258" frameHeight="230"/>
+  <SubTexture name="swapsans_left0014_copy_260x229.png" x="2043" y="225"  width="252" height="229" frameX="1" frameY="-0" frameWidth="260" frameHeight="229"/>
+  <SubTexture name="swapsans_left0015_copy_260x229.png" x="2043" y="225"  width="252" height="229" frameX="1" frameY="-0" frameWidth="260" frameHeight="229"/>
+  <SubTexture name="swapsans_left0016_copy_260x229.png" x="2043" y="225"  width="252" height="229" frameX="1" frameY="-0" frameWidth="260" frameHeight="229"/>
+  <SubTexture name="swapsans_left0006_copy_260x229.png" x="247" y="446"  width="255" height="229" frameX="-0" frameY="-0" frameWidth="260" frameHeight="229"/>
+  <SubTexture name="swapsans_left0017_copy_260x229.png" x="247" y="446"  width="255" height="229" frameX="-0" frameY="-0" frameWidth="260" frameHeight="229"/>
+  <SubTexture name="swapsans_left0018_copy_260x229.png" x="247" y="446"  width="255" height="229" frameX="-0" frameY="-0" frameWidth="260" frameHeight="229"/>
+  <SubTexture name="swapsans_left0019_copy_260x229.png" x="247" y="446"  width="255" height="229" frameX="-0" frameY="-0" frameWidth="260" frameHeight="229"/>
+  <SubTexture name="swapsans_left0008_copy_260x229.png" x="0" y="438"  width="247" height="229" frameX="4" frameY="-0" frameWidth="260" frameHeight="229"/>
+  <SubTexture name="swapsans_left0020_copy_260x229.png" x="0" y="438"  width="247" height="229" frameX="4" frameY="-0" frameWidth="260" frameHeight="229"/>
+  <SubTexture name="swapsans_left0021_copy_260x229.png" x="0" y="438"  width="247" height="229" frameX="4" frameY="-0" frameWidth="260" frameHeight="229"/>
+  <SubTexture name="swapsans_left0010_copy_260x229.png" x="502" y="447"  width="252" height="229" frameX="1" frameY="-0" frameWidth="260" frameHeight="229"/>
+  <SubTexture name="swapsans_left0011_copy_260x229.png" x="502" y="447"  width="252" height="229" frameX="1" frameY="-0" frameWidth="260" frameHeight="229"/>
+  <SubTexture name="swapsans_left0022_copy_260x229.png" x="502" y="447"  width="252" height="229" frameX="1" frameY="-0" frameWidth="260" frameHeight="229"/>
+  <SubTexture name="swapsans_left0023_copy_260x229.png" x="502" y="447"  width="252" height="229" frameX="1" frameY="-0" frameWidth="260" frameHeight="229"/>
+  <SubTexture name="swapsans_left0024_copy_260x229.png" x="502" y="447"  width="252" height="229" frameX="1" frameY="-0" frameWidth="260" frameHeight="229"/>
+  <SubTexture name="swapsans_left0013_copy_260x229.png" x="754" y="451"  width="247" height="229" frameX="4" frameY="-0" frameWidth="260" frameHeight="229"/>
+  <SubTexture name="swapsans_left0025_copy_260x229.png" x="754" y="451"  width="247" height="229" frameX="4" frameY="-0" frameWidth="260" frameHeight="229"/>
+  <SubTexture name="swapsans_right0001_copy_329x247.png" x="316" y="2113"  width="316" height="247" frameX="-1" frameY="-0" frameWidth="329" frameHeight="247"/>
+  <SubTexture name="swapsans_right0020_copy_321x247.png" x="1262" y="918"  width="311" height="237" frameX="-1" frameY="-10" frameWidth="321" frameHeight="247"/>
+  <SubTexture name="swapsans_right0021_copy_321x247.png" x="1262" y="918"  width="311" height="237" frameX="-1" frameY="-10" frameWidth="321" frameHeight="247"/>
+  <SubTexture name="swapsans_right0011_copy_321x247.png" x="1889" y="920"  width="316" height="237" frameX="-1" frameY="-10" frameWidth="321" frameHeight="247"/>
+  <SubTexture name="swapsans_right0022_copy_321x247.png" x="1889" y="920"  width="316" height="237" frameX="-1" frameY="-10" frameWidth="321" frameHeight="247"/>
+  <SubTexture name="swapsans_right0023_copy_321x247.png" x="1889" y="920"  width="316" height="237" frameX="-1" frameY="-10" frameWidth="321" frameHeight="247"/>
+  <SubTexture name="swapsans_right0024_copy_321x247.png" x="1889" y="920"  width="316" height="237" frameX="-1" frameY="-10" frameWidth="321" frameHeight="247"/>
+  <SubTexture name="swapsans_right0014_copy_321x247.png" x="311" y="1143"  width="320" height="237" frameX="-1" frameY="-10" frameWidth="321" frameHeight="247"/>
+  <SubTexture name="swapsans_right0025_copy_321x247.png" x="311" y="1143"  width="320" height="237" frameX="-1" frameY="-10" frameWidth="321" frameHeight="247"/>
+  <SubTexture name="swapsans_right0019_copy_321x247.png" x="1259" y="1155"  width="317" height="237" frameX="-1" frameY="-10" frameWidth="321" frameHeight="247"/>
+  <SubTexture name="swapsans_up0001_copy_261x350.png" x="1329" y="2125" width="346" height="257" rotated="true"  frameX="0" frameY="-4" frameWidth="261" frameHeight="350"/>
+  <SubTexture name="swapsans_up0006_copy_266x352.png" x="1495" y="1881" width="349" height="244" rotated="true"  frameX="4" frameY="-3" frameWidth="266" frameHeight="352"/>
+  <SubTexture name="swapsans_up0017_copy_266x352.png" x="1495" y="1881" width="349" height="244" rotated="true"  frameX="4" frameY="-3" frameWidth="266" frameHeight="352"/>
+  <SubTexture name="swapsans_up0018_copy_266x352.png" x="1495" y="1881" width="349" height="244" rotated="true"  frameX="4" frameY="-3" frameWidth="266" frameHeight="352"/>
+  <SubTexture name="swapsans_up0019_copy_266x352.png" x="1495" y="1881" width="349" height="244" rotated="true"  frameX="4" frameY="-3" frameWidth="266" frameHeight="352"/>
+  <SubTexture name="swapsans_up0008_copy_266x352.png" x="632" y="2121" width="349" height="248" rotated="true"  frameX="4" frameY="-3" frameWidth="266" frameHeight="352"/>
+  <SubTexture name="swapsans_up0009_copy_266x352.png" x="632" y="2121" width="349" height="248" rotated="true"  frameX="4" frameY="-3" frameWidth="266" frameHeight="352"/>
+  <SubTexture name="swapsans_up0020_copy_266x352.png" x="632" y="2121" width="349" height="248" rotated="true"  frameX="4" frameY="-3" frameWidth="266" frameHeight="352"/>
+  <SubTexture name="swapsans_up0021_copy_266x352.png" x="632" y="2121" width="349" height="248" rotated="true"  frameX="4" frameY="-3" frameWidth="266" frameHeight="352"/>
+  <SubTexture name="swapsans_up0022_copy_266x352.png" x="632" y="2121" width="349" height="248" rotated="true"  frameX="4" frameY="-3" frameWidth="266" frameHeight="352"/>
+  <SubTexture name="swapsans_up0011_copy_266x352.png" x="0" y="1380" width="349" height="240" rotated="true"  frameX="4" frameY="-3" frameWidth="266" frameHeight="352"/>
+  <SubTexture name="swapsans_up0023_copy_266x352.png" x="0" y="1380" width="349" height="240" rotated="true"  frameX="4" frameY="-3" frameWidth="266" frameHeight="352"/>
+  <SubTexture name="swapsans_up0024_copy_266x352.png" x="0" y="1380" width="349" height="240" rotated="true"  frameX="4" frameY="-3" frameWidth="266" frameHeight="352"/>
+  <SubTexture name="swapsans_up0013_copy_266x352.png" x="1844" y="1881" width="349" height="245" rotated="true"  frameX="4" frameY="-3" frameWidth="266" frameHeight="352"/>
+  <SubTexture name="swapsans_up0014_copy_266x352.png" x="1844" y="1881" width="349" height="245" rotated="true"  frameX="4" frameY="-3" frameWidth="266" frameHeight="352"/>
+  <SubTexture name="swapsans_up0025_copy_266x352.png" x="1844" y="1881" width="349" height="245" rotated="true"  frameX="4" frameY="-3" frameWidth="266" frameHeight="352"/>
+  <SubTexture name="swapsans_up0026_copy_266x352.png" x="1844" y="1881" width="349" height="245" rotated="true"  frameX="4" frameY="-3" frameWidth="266" frameHeight="352"/>
+  <SubTexture name="swapsans_up0016_copy_266x352.png" x="2236" y="1157" width="349" height="239" rotated="true"  frameX="4" frameY="-3" frameWidth="266" frameHeight="352"/>
+</TextureAtlas>

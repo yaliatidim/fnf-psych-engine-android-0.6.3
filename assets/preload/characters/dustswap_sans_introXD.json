@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				23
+			],
+			"anim": "swapsans_voiceline",
+			"fps": 24,
+			"name": "swapsans_voiceline",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Intro",
+	"position": [
+		100,
+		480
+	],
+	"healthicon": "icon-dustswap-sans",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		130,
+		217
+	],
+	"camera_position": [
+		400,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

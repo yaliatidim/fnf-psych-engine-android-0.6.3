@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Perseverance", "icon-perseverance-sans", [95, 31, 255]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "Song1",
+
+	"storyName": "",
+    "difficulties": "Normal",
+	"weekBefore": "",
+	"weekName": "",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

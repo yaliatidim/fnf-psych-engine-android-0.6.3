@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="5.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Normal0000" x="20" y="20" width="192" height="231" frameX="0" frameY="-2" frameWidth="192" frameHeight="234"/>
+	<SubTexture name="Normal0001" x="20" y="20" width="192" height="231" frameX="0" frameY="-2" frameWidth="192" frameHeight="234"/>
+	<SubTexture name="Normal0002" x="232" y="20" width="190" height="234" frameX="-1" frameY="0" frameWidth="192" frameHeight="234"/>
+	<SubTexture name="Normal0003" x="232" y="20" width="190" height="234" frameX="-1" frameY="0" frameWidth="192" frameHeight="234"/>
+	<SubTexture name="Normal0004" x="442" y="20" width="190" height="234" frameX="-1" frameY="0" frameWidth="192" frameHeight="234"/>
+	<SubTexture name="Normal0005" x="442" y="20" width="190" height="234" frameX="-1" frameY="0" frameWidth="192" frameHeight="234"/>
+	<SubTexture name="Normal0006" x="652" y="20" width="190" height="234" frameX="-1" frameY="0" frameWidth="192" frameHeight="234"/>
+	<SubTexture name="Normal0007" x="652" y="20" width="190" height="234" frameX="-1" frameY="0" frameWidth="192" frameHeight="234"/>
+	<SubTexture name="Normal0008" x="20" y="274" width="190" height="234" frameX="-1" frameY="0" frameWidth="192" frameHeight="234"/>
+	<SubTexture name="Normal0009" x="20" y="274" width="190" height="234" frameX="-1" frameY="0" frameWidth="192" frameHeight="234"/>
+	<SubTexture name="Normal0010" x="20" y="274" width="190" height="234" frameX="-1" frameY="0" frameWidth="192" frameHeight="234"/>
+	<SubTexture name="Normal0011" x="20" y="274" width="190" height="234" frameX="-1" frameY="0" frameWidth="192" frameHeight="234"/>
+	<SubTexture name="Normal0012" x="20" y="274" width="190" height="234" frameX="-1" frameY="0" frameWidth="192" frameHeight="234"/>
+	<SubTexture name="Normal0013" x="20" y="274" width="190" height="234" frameX="-1" frameY="0" frameWidth="192" frameHeight="234"/>
+	<SubTexture name="Normal0014" x="20" y="274" width="190" height="234" frameX="-1" frameY="0" frameWidth="192" frameHeight="234"/>
+
+
+	<SubTexture name="Tiezazo0000" x="230" y="274" width="188" height="238" frameX="-1" frameY="-136" frameWidth="465" frameHeight="374"/>
+	<SubTexture name="Tiezazo0001" x="230" y="274" width="188" height="238" frameX="-1" frameY="-136" frameWidth="465" frameHeight="374"/>
+	<SubTexture name="Tiezazo0002" x="438" y="274" width="190" height="235" frameX="0" frameY="-138" frameWidth="465" frameHeight="374"/>
+	<SubTexture name="Tiezazo0003" x="438" y="274" width="190" height="235" frameX="0" frameY="-138" frameWidth="465" frameHeight="374"/>
+	<SubTexture name="Tiezazo0004" x="648" y="274" width="188" height="235" frameX="-1" frameY="-138" frameWidth="465" frameHeight="374"/>
+	<SubTexture name="Tiezazo0005" x="648" y="274" width="188" height="235" frameX="-1" frameY="-138" frameWidth="465" frameHeight="374"/>
+	<SubTexture name="Tiezazo0006" x="648" y="274" width="188" height="235" frameX="-1" frameY="-138" frameWidth="465" frameHeight="374"/>
+	<SubTexture name="Tiezazo0007" x="20" y="532" width="187" height="239" frameX="-2" frameY="-135" frameWidth="465" frameHeight="374"/>
+	<SubTexture name="Tiezazo0008" x="227" y="532" width="199" height="300" frameX="-7" frameY="-74" frameWidth="465" frameHeight="374"/>
+	<SubTexture name="Tiezazo0009" x="227" y="532" width="199" height="300" frameX="-7" frameY="-74" frameWidth="465" frameHeight="374"/>
+	<SubTexture name="Tiezazo0010" x="446" y="532" width="236" height="336" frameX="-20" frameY="-38" frameWidth="465" frameHeight="374"/>
+	<SubTexture name="Tiezazo0011" x="446" y="532" width="236" height="336" frameX="-20" frameY="-38" frameWidth="465" frameHeight="374"/>
+	<SubTexture name="Tiezazo0012" x="20" y="888" width="322" height="372" frameX="-75" frameY="0" frameWidth="465" frameHeight="374"/>
+	<SubTexture name="Tiezazo0013" x="20" y="888" width="322" height="372" frameX="-75" frameY="0" frameWidth="465" frameHeight="374"/>
+	<SubTexture name="Tiezazo0014" x="362" y="888" width="380" height="301" frameX="-85" frameY="-71" frameWidth="465" frameHeight="374"/>
+	<SubTexture name="Tiezazo0015" x="362" y="888" width="380" height="301" frameX="-85" frameY="-71" frameWidth="465" frameHeight="374"/>
+	<SubTexture name="Tiezazo0016" x="20" y="1280" width="298" height="218" frameX="-85" frameY="-154" frameWidth="465" frameHeight="374"/>
+	<SubTexture name="Tiezazo0017" x="20" y="1280" width="298" height="218" frameX="-85" frameY="-154" frameWidth="465" frameHeight="374"/>
+	<SubTexture name="Tiezazo0018" x="338" y="1280" width="110" height="23" frameX="-85" frameY="-349" frameWidth="465" frameHeight="374"/>
+	<SubTexture name="Tiezazo0019" x="338" y="1280" width="110" height="23" frameX="-85" frameY="-349" frameWidth="465" frameHeight="374"/>
+	<SubTexture name="Tiezazo0020" x="338" y="1280" width="110" height="23" frameX="-85" frameY="-349" frameWidth="465" frameHeight="374"/>
+	<SubTexture name="Tiezazo0021" x="338" y="1280" width="110" height="23" frameX="-85" frameY="-349" frameWidth="465" frameHeight="374"/>
+	<SubTexture name="Tiezazo0022" x="338" y="1280" width="110" height="23" frameX="-85" frameY="-349" frameWidth="465" frameHeight="374"/>
+	<SubTexture name="Tiezazo0023" x="338" y="1280" width="110" height="23" frameX="-85" frameY="-349" frameWidth="465" frameHeight="374"/>
+</TextureAtlas>

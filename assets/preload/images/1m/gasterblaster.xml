@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gasterblaster.png">
+	
+	
+
+	<SubTexture name="blaster_blast0000" x="0" y="0" width="1181" height="173" frameX="-214" frameY="0" frameWidth="805" frameHeight="173" />
+	<SubTexture name="blaster_blast0001" x="591" y="0" width="1185" height="159" frameX="-213" frameY="-7" frameWidth="805" frameHeight="173" />
+	<SubTexture name="blaster_blast0002" x="1184" y="0" width="1097" height="140" frameX="-190" frameY="-17" frameWidth="805" frameHeight="173" />
+	<SubTexture name="blaster_blast0003" x="1184" y="0" width="1097" height="140" frameX="-190" frameY="-17" frameWidth="805" frameHeight="173" />
+	<SubTexture name="blaster_blast0004" x="0" y="173" width="1160" height="142" frameX="-158" frameY="-16" frameWidth="805" frameHeight="173" />
+	<SubTexture name="blaster_blast0005" x="0" y="173" width="1160" height="142" frameX="-158" frameY="-16" frameWidth="805" frameHeight="173" />
+	<SubTexture name="blaster_blast0006" x="580" y="173" width="1327" height="133" frameX="-56" frameY="-22" frameWidth="805" frameHeight="173" />
+	<SubTexture name="blaster_blast0007" x="580" y="173" width="1327" height="133" frameX="-56" frameY="-22" frameWidth="805" frameHeight="173" />
+	<SubTexture name="blaster_blast0008" x="1244" y="173" width="1480" height="133" frameX="0" frameY="-22" frameWidth="805" frameHeight="173" />
+	<SubTexture name="blaster_blast0009" x="1244" y="173" width="1480" height="133" frameX="0" frameY="-22" frameWidth="805" frameHeight="173" />
+	<SubTexture name="blaster_blast0010" x="0" y="316" width="1396" height="59" frameX="-42" frameY="-91" frameWidth="805" frameHeight="173" />
+	<SubTexture name="blaster_blast0011" x="698" y="316" width="0" height="0" frameX="-232" frameY="-23" frameWidth="805" frameHeight="173" />
+
+
+	<SubTexture name="blaster_idle0000" x="698" y="316" width="122" height="134" frameX="-1" frameY="-1" frameWidth="123" frameHeight="134" />
+	<SubTexture name="blaster_idle0001" x="698" y="316" width="122" height="134" frameX="-1" frameY="-1" frameWidth="123" frameHeight="134" />
+	<SubTexture name="blaster_idle0002" x="821" y="316" width="123" height="133" frameX="-1" frameY="0" frameWidth="123" frameHeight="134" />
+	<SubTexture name="blaster_idle0003" x="821" y="316" width="123" height="133" frameX="-1" frameY="0" frameWidth="123" frameHeight="134" />
+	<SubTexture name="blaster_idle0004" x="945" y="316" width="123" height="132" frameX="0" frameY="0" frameWidth="123" frameHeight="134" />
+	<SubTexture name="blaster_idle0005" x="945" y="316" width="123" height="132" frameX="0" frameY="0" frameWidth="123" frameHeight="134" />
+	<SubTexture name="blaster_idle0006" x="945" y="316" width="123" height="132" frameX="0" frameY="0" frameWidth="123" frameHeight="134" />
+	<SubTexture name="blaster_idle0007" x="945" y="316" width="123" height="132" frameX="0" frameY="0" frameWidth="123" frameHeight="134" />
+	<SubTexture name="blaster_idle0008" x="821" y="316" width="123" height="133" frameX="-1" frameY="0" frameWidth="123" frameHeight="134" />
+	<SubTexture name="blaster_idle0009" x="821" y="316" width="123" height="133" frameX="-1" frameY="0" frameWidth="123" frameHeight="134" />
+	<SubTexture name="blaster_idle0010" x="698" y="316" width="122" height="131" frameX="-1" frameY="-1" frameWidth="123" frameHeight="134" />
+	<SubTexture name="blaster_idle0011" x="698" y="316" width="122" height="131" frameX="-1" frameY="-1" frameWidth="123" frameHeight="134" />
+</TextureAtlas>

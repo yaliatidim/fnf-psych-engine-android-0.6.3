@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bone_assets.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bone idle0000" x="179" y="1" width="60" height="190" frameX="0" frameY="-3" frameWidth="65" frameHeight="309"/>
+	<SubTexture name="bone idle0001" x="240" y="1" width="60" height="188" frameX="-4" frameY="-4" frameWidth="65" frameHeight="309"/>
+	<SubTexture name="bone idle0002" x="301" y="1" width="59" height="187" frameX="-1" frameY="-6" frameWidth="65" frameHeight="309"/>
+	<SubTexture name="bone idle0003" x="361" y="1" width="60" height="192" frameX="-5" frameY="0" frameWidth="65" frameHeight="309"/>
+</TextureAtlas>
